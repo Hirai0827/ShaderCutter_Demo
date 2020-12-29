@@ -1466,7 +1466,7 @@
 
 "ShaderCutter@https://github.com/Hirai0827/ShaderCutter":
   version "1.0.0"
-  resolved "https://github.com/Hirai0827/ShaderCutter#20ab3336d0af97a04603ab5c1505c92e1b5b9f29"
+  resolved "https://github.com/Hirai0827/ShaderCutter#c46db86827c4913b56e5d5244726eedc6bfc4c4d"
   dependencies:
     "@types/jest" "^26.0.19"
 
